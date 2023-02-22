@@ -1,0 +1,16 @@
+
+.container{
+  font-family: 'Alex Brush', cursive;
+  font-weight: 75px;
+}
+.card{
+  width: 270px;
+  height: 250px;
+  padding: 5px;
+}
+.input {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
